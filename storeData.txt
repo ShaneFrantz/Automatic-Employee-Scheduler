@@ -1,0 +1,9 @@
+STORE HOURS:
+
+Sunday: CLOSED
+Monday: 5:00-22:00
+Tuesday: 5:00-22:00
+Wednesday: 5:00-22:00
+Thursday: 5:00-22:00
+Friday: 5:00-22:00
+Saturday: 5:00-22:00

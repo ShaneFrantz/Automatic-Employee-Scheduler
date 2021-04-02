@@ -1,0 +1,42 @@
+Employees:
+
+Name: Shane
+MAX HOURS: 40
+Sunday: 14:00-22:00
+Monday: NONE
+Tuesday: NONE
+Wednesday: NONE
+Thursday: 14:00-22:00
+Friday: 14:00-22:00
+Saturday: 14:00-22:00
+///
+Name: Chris
+MAX HOURS: 20
+Sunday: NONE
+Monday: 10:30-16:00
+Tuesday: 10:30-16:00
+Wednesday: 14:00-22:00
+Thursday: NONE
+Friday: NONE
+Saturday: NONE
+///
+Name: Jimmy
+MAX HOURS: 25
+Sunday: 5:00-13:00
+Monday: 5:00-13:00
+Tuesday: 5:00-13:00
+Wednesday: 5:00-13:00
+Thursday: 5:00-13:00
+Friday: 5:00-13:00
+Saturday: 5:00-13:00
+///
+Name: Daniel
+MAX HOURS: 30
+Sunday- 5:00-13:00
+Monday- 14:00-22:00
+Tuesday- 14:00-22:00
+Wednesday- 14:00-22:00
+Thursday- NONE
+Friday- 5:00-13:00
+Saturday- 5:00-13:00
+///
